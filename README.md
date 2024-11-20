@@ -1,4 +1,4 @@
-<h2 align="left">Hello World 👋! My name is Vikas and I'm a Software Engineer, from India</h2>
+<h2 align="left">Hello World 👋! I'm Vikas, a Software Engineer, from India</h2>
 
 
 <div align="center">
